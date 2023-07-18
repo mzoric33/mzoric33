@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marin</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mzoric33?tab=repositories](https://github.com/mzoric33?tab=repositories)
 
